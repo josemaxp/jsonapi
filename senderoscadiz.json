@@ -36,8 +36,8 @@
       "LONGITUD": "4 kms",
       "TIEMPO DE IDA": "1:30 h.",
       "DIFICULTAD": "Baja",
-      "LONGITUDE": "36.848971",
-      "LATITUDE": "-6.3196114"
+      "LONGITUDE": "-6.3196114",
+      "LATITUDE": "36.848971"
     },
     {
       "id": 2,
@@ -45,8 +45,8 @@
       "LONGITUD": "2 kms",
       "TIEMPO DE IDA": "45 min.",
       "DIFICULTAD": "Baja",
-      "LONGITUDE": "36.8730955",
-      "LATITUDE": "-5.8649104"
+      "LONGITUDE": "-5.8649104",
+      "LATITUDE": "36.8730955"
     },
     {
       "id": 3,
@@ -54,8 +54,8 @@
       "LONGITUD": "4.3 kms",
       "TIEMPO DE IDA": "2:45 h.",
       "DIFICULTAD": "Media",
-      "LONGITUDE": "36.7544421",
-      "LATITUDE": "-5.396168"
+      "LONGITUDE": "-5.396168",
+      "LATITUDE": "36.7544421"
     },
     {
       "id": 4,
@@ -63,8 +63,8 @@
       "LONGITUD": "1 kms",
       "TIEMPO DE IDA": "20 min.",
       "DIFICULTAD": "Baja",
-      "LONGITUDE": "36.8367228",
-      "LATITUDE": "-5.3982644"
+      "LONGITUDE": "-5.3982644,",
+      "LATITUDE": "36.8367228"
     },
     {
       "id": 5,
@@ -72,8 +72,8 @@
       "LONGITUD": "2.5 kms",
       "TIEMPO DE IDA": "1:40 h.",
       "DIFICULTAD": "Alta",
-      "LONGITUDE": "36.8083425",
-      "LATITUDE": "-5.3943179"
+      "LONGITUDE": "-5.3943179",
+      "LATITUDE": "36.8083425"
     },
     {
       "id": 6,
@@ -81,8 +81,8 @@
       "LONGITUD": "6.3 kms",
       "TIEMPO DE IDA": "2:30 h.",
       "DIFICULTAD": "Baja",
-      "LONGITUDE": "36.8028382",
-      "LATITUDE": "-5.3929361"
+      "LONGITUDE": "-5.3929361",
+      "LATITUDE": "36.8028382"
     },
     {
       "id": 7,
@@ -90,8 +90,8 @@
       "LONGITUD": "11.1 kms",
       "TIEMPO DE IDA": "4:30 h.",
       "DIFICULTAD": "Media",
-      "LONGITUDE": "36.76792",
-      "LATITUDE": "-5.3835673"
+      "LONGITUDE": "-5.3835673",
+      "LATITUDE": "36.76792"
     },
     {
       "id": 8,
@@ -99,8 +99,8 @@
       "LONGITUD": "4.4 kms",
       "TIEMPO DE IDA": "2 h.",
       "DIFICULTAD": "Baja",
-      "LONGITUDE": "36.7618461",
-      "LATITUDE": "-5.5086056"
+      "LONGITUDE": "-5.5086056",
+      "LATITUDE": "36.7618461"
     },
     {
       "id": 9,
@@ -108,8 +108,8 @@
       "LONGITUD": "3.2 kms",
       "TIEMPO DE IDA": "2 h.",
       "DIFICULTAD": "Alta",
-      "LONGITUDE": "36.7550742",
-      "LATITUDE": "-5.4378649"
+      "LONGITUDE": "-5.4378649",
+      "LATITUDE": "36.7550742"
     },
     {
       "id": 10,
@@ -117,8 +117,8 @@
       "LONGITUD": "1.2 kms",
       "TIEMPO DE IDA": "30 min.",
       "DIFICULTAD": "Baja",
-      "LONGITUDE": "36.7568084",
-      "LATITUDE": "-5.4554974"
+      "LONGITUDE": "-5.4554974",
+      "LATITUDE": "36.7568084"
     },
     {
       "id": 11,
@@ -126,8 +126,8 @@
       "LONGITUD": "1.2 kms",
       "TIEMPO DE IDA": "30 min.",
       "DIFICULTAD": "Baja",
-      "LONGITUDE": "36.758744",
-      "LATITUDE": "-5.4663191"
+      "LONGITUDE": "-5.4663191",
+      "LATITUDE": "36.758744"
     },
     {
       "id": 12,
@@ -135,8 +135,8 @@
       "LONGITUD": "1.6 kms",
       "TIEMPO DE IDA": "40 min.",
       "DIFICULTAD": "Baja",
-      "LONGITUDE": "36.7552619",
-      "LATITUDE": "-5.4573079"
+      "LONGITUDE": "-5.4573079",
+      "LATITUDE": "36.7552619"
     },
     {
       "id": 13,
@@ -144,8 +144,8 @@
       "LONGITUD": "1.9 kms",
       "TIEMPO DE IDA": "45 min.",
       "DIFICULTAD": "Baja",
-      "LONGITUDE": "36.7611376",
-      "LATITUDE": "-5.3786699"
+      "LONGITUDE": "-5.3786699",
+      "LATITUDE": "36.7611376"
     },
     {
       "id": 14,
@@ -153,8 +153,8 @@
       "LONGITUD": "5.4 kms",
       "TIEMPO DE IDA": "2 h.",
       "DIFICULTAD": "Media",
-      "LONGITUDE": "36.6967317",
-      "LATITUDE": "-5.3830134"
+      "LONGITUDE": "-5.3830134",
+      "LATITUDE": "36.6967317"
     },
     {
       "id": 15,
@@ -162,8 +162,8 @@
       "LONGITUD": "3.1 kms",
       "TIEMPO DE IDA": "1:30 h.",
       "DIFICULTAD": "Media",
-      "LONGITUDE": "36.7587308",
-      "LATITUDE": "-5.3751951"
+      "LONGITUDE": "-5.3751951",
+      "LATITUDE": "36.7587308"
     },
     {
       "id": 16,
@@ -171,8 +171,8 @@
       "LONGITUD": "3.4 kms",
       "TIEMPO DE IDA": "2 h.",
       "DIFICULTAD": "Media",
-      "LONGITUDE": "36.7071401",
-      "LATITUDE": "-5.4266214"
+      "LONGITUDE": "-5.4266214",
+      "LATITUDE": "36.7071401"
     },
     {
       "id": 17,
@@ -180,8 +180,8 @@
       "LONGITUD": "1.4 kms",
       "TIEMPO DE IDA": "45 min.",
       "DIFICULTAD": "Baja",
-      "LONGITUDE": "36.7061252",
-      "LATITUDE": "-5.4286365"
+      "LONGITUDE": "-5.4286365",
+      "LATITUDE": "36.7061252"
     }
   ]
 }
