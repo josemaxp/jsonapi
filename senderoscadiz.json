@@ -1,0 +1,187 @@
+{
+  "fields": [
+    {
+      "type": "int",
+      "id": "id"
+    },
+    {
+      "type": "text",
+      "id": "NOMBRE"
+    },
+    {
+      "type": "text",
+      "id": "LONGITUD"
+    },
+    {
+      "type": "text",
+      "id": "TIEMPO DE IDA"
+    },
+    {
+      "type": "text",
+      "id": "DIFICULTAD"
+    },
+    {
+      "type": "text",
+      "id": "LONGITUDE"
+    },
+    {
+      "type": "text",
+      "id": "LATITUDE"
+    }
+  ],
+  "records": [
+    {
+      "id": 1,
+      "NOMBRE": "CERRO DEL ÁGUILA",
+      "LONGITUD": "4 kms",
+      "TIEMPO DE IDA": "1:30 h.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "36.848971",
+      "LATITUDE": "-6.3196114"
+    },
+    {
+      "id": 2,
+      "NOMBRE": "LAGUNAS DE ESPERA",
+      "LONGITUD": "2 kms",
+      "TIEMPO DE IDA": "45 min.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "36.8730955",
+      "LATITUDE": "-5.8649104"
+    },
+    {
+      "id": 3,
+      "NOMBRE": "PUERTO DE LAS PRESILLAS",
+      "LONGITUD": "4.3 kms",
+      "TIEMPO DE IDA": "2:45 h.",
+      "DIFICULTAD": "Media",
+      "LONGITUDE": "36.7544421",
+      "LATITUDE": "-5.396168"
+    },
+    {
+      "id": 4,
+      "NOMBRE": "LA BODEGA",
+      "LONGITUD": "1 kms",
+      "TIEMPO DE IDA": "20 min.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "36.8367228",
+      "LATITUDE": "-5.3982644"
+    },
+    {
+      "id": 5,
+      "NOMBRE": "LA GARGANTA VERDE",
+      "LONGITUD": "2.5 kms",
+      "TIEMPO DE IDA": "1:40 h.",
+      "DIFICULTAD": "Alta",
+      "LONGITUDE": "36.8083425",
+      "LATITUDE": "-5.3943179"
+    },
+    {
+      "id": 6,
+      "NOMBRE": "LLANOS DE RABEL",
+      "LONGITUD": "6.3 kms",
+      "TIEMPO DE IDA": "2:30 h.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "36.8028382",
+      "LATITUDE": "-5.3929361"
+    },
+    {
+      "id": 7,
+      "NOMBRE": "EL PINSAPAR",
+      "LONGITUD": "11.1 kms",
+      "TIEMPO DE IDA": "4:30 h.",
+      "DIFICULTAD": "Media",
+      "LONGITUDE": "36.76792",
+      "LATITUDE": "-5.3835673"
+    },
+    {
+      "id": 8,
+      "NOMBRE": "´RÍO MAJACEITE",
+      "LONGITUD": "4.4 kms",
+      "TIEMPO DE IDA": "2 h.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "36.7618461",
+      "LATITUDE": "-5.5086056"
+    },
+    {
+      "id": 9,
+      "NOMBRE": "EL TORREÓN",
+      "LONGITUD": "3.2 kms",
+      "TIEMPO DE IDA": "2 h.",
+      "DIFICULTAD": "Alta",
+      "LONGITUDE": "36.7550742",
+      "LATITUDE": "-5.4378649"
+    },
+    {
+      "id": 10,
+      "NOMBRE": "EL TESORILLO",
+      "LONGITUD": "1.2 kms",
+      "TIEMPO DE IDA": "30 min.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "36.7568084",
+      "LATITUDE": "-5.4554974"
+    },
+    {
+      "id": 11,
+      "NOMBRE": "ARROYO DEL DESCANSADERO",
+      "LONGITUD": "1.2 kms",
+      "TIEMPO DE IDA": "30 min.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "36.758744",
+      "LATITUDE": "-5.4663191"
+    },
+    {
+      "id": 12,
+      "NOMBRE": "LLANOS DE BERRAL",
+      "LONGITUD": "1.6 kms",
+      "TIEMPO DE IDA": "40 min.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "36.7552619",
+      "LATITUDE": "-5.4573079"
+    },
+    {
+      "id": 13,
+      "NOMBRE": "CAMINO DE LOS CHARCONES (PTO. DEL BOYAR)",
+      "LONGITUD": "1.9 kms",
+      "TIEMPO DE IDA": "45 min.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "36.7611376",
+      "LATITUDE": "-5.3786699"
+    },
+    {
+      "id": 14,
+      "NOMBRE": "LLANOS DEL REPUBLICANO",
+      "LONGITUD": "5.4 kms",
+      "TIEMPO DE IDA": "2 h.",
+      "DIFICULTAD": "Media",
+      "LONGITUDE": "36.6967317",
+      "LATITUDE": "-5.3830134"
+    },
+    {
+      "id": 15,
+      "NOMBRE": "LLANOS DEL ENDRINAL",
+      "LONGITUD": "3.1 kms",
+      "TIEMPO DE IDA": "1:30 h.",
+      "DIFICULTAD": "Media",
+      "LONGITUDE": "36.7587308",
+      "LATITUDE": "-5.3751951"
+    },
+    {
+      "id": 16,
+      "NOMBRE": "SALTO DEL CABRERO",
+      "LONGITUD": "3.4 kms",
+      "TIEMPO DE IDA": "2 h.",
+      "DIFICULTAD": "Media",
+      "LONGITUDE": "36.7071401",
+      "LATITUDE": "-5.4266214"
+    },
+    {
+      "id": 17,
+      "NOMBRE": "OJO DEL MORO",
+      "LONGITUD": "1.4 kms",
+      "TIEMPO DE IDA": "45 min.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "36.7061252",
+      "LATITUDE": "-5.4286365"
+    }
+  ]
+}
