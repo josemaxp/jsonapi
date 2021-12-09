@@ -279,6 +279,39 @@
       "LATITUDE": "36.522031",
       "DESCRIPCION": "En el km 13-14 de la carretera A-2304 (Alcalá de los Gazules-Ubrique), se encuentra el área recreativa El Picacho, donde se inicia el sendero.",
       "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5668381/216_SS_01.jpg"
+    },
+    {
+      "id": 23,
+      "NOMBRE": "SUBIDA AL PICACHO",
+      "LONGITUD": "3.3 kms",
+      "TIEMPO DE IDA": "1:30 h.",
+      "DIFICULTAD": "Alta",
+      "LONGITUDE": "-5.6508431",
+      "LATITUDE": "36.5216166",
+      "DESCRIPCION": "En el km 13 - 14 de la carretera A-2304 (Alcalá de los Gazules - Ubrique), se encuentra el área recreativa El Picacho, donde se inicia el sendero.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5677978/Picacho1.jpg"
+    },
+    {
+      "id": 24,
+      "NOMBRE": "SUBIDA AL ALJIBE",
+      "LONGITUD": "6.9 kms",
+      "TIEMPO DE IDA": "4 h.",
+      "DIFICULTAD": "Alta",
+      "LONGITUDE": "-5.651009",
+      "LATITUDE": "36.5218322",
+      "DESCRIPCION": "En el km 13 - 14 de la carretera A-2304 (Alcalá de los Gazules - Ubrique), se encuentra el área recreativa El Picacho, donde se inicia el sendero.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5677562/Aljibe1.jpg"
+    },
+    {
+      "id": 25,
+      "NOMBRE": "RUTA DE LOS MOLINOS",
+      "LONGITUD": "1.7 kms",
+      "TIEMPO DE IDA": "45 min.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-5.6591767",
+      "LATITUDE": "36.4634946",
+      "DESCRIPCION": "Al final de la carretera CA-6201 (Alcalá de los Gazules - Patrite), se encuentra el inicio del sendero.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5668046/Ruta_molinos4.JPG"
     }
   ]
 }
