@@ -224,6 +224,17 @@
       "LATITUDE": "36.7061252",
       "DESCRIPCION": "Desde Benaocaz tomar la A-2302 en sentido Ubrique, hacia el norte. Recorrido 1 km, giramos por el carril de la derecha, hacia Los Chozos. A los pocos metros se inicia el sendero.",
       "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5657301/Ojo_moro1.jpg"
+    },
+    {
+      "id": 18,
+      "NOMBRE": "LA CALZADA ROMANA",
+      "LONGITUD": "3.4 kms",
+      "TIEMPO DE IDA": "1 h.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-5.4447533",
+      "LATITUDE": "36.6810742",
+      "DESCRIPCION": "En Benaocaz, el sendero se inicia sobre la A-2302, justo donde se encuentra la parada de autobús del pueblo. Si lo iniciamos en Ubrique, buscaremos el convento o ermita de San Juan.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5666310/Calzada_romana4.jpg"
     }
   ]
 }
