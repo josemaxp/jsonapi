@@ -27,6 +27,14 @@
     {
       "type": "text",
       "id": "LATITUDE"
+    },
+    {
+      "type": "text",
+      "id": "DESCRIPCION"
+    },
+    {
+      "type": "text",
+      "id": "IMAGEN"
     }
   ],
   "records": [
@@ -37,7 +45,9 @@
       "TIEMPO DE IDA": "1:30 h.",
       "DIFICULTAD": "Baja",
       "LONGITUDE": "-6.3196114",
-      "LATITUDE": "36.848971"
+      "LATITUDE": "36.848971",
+      "DESCRIPCION": "Desde Sanlúcar de Barrameda tomar hacia Bonanza, en dirección norte la CA-9027. Pasada La Algaida, a unos 100 metros, se inicia el sendero.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5656070/170_SS_01.jpg"
     },
     {
       "id": 2,
