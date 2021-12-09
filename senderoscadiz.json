@@ -235,6 +235,50 @@
       "LATITUDE": "36.6810742",
       "DESCRIPCION": "En Benaocaz, el sendero se inicia sobre la A-2302, justo donde se encuentra la parada de autobús del pueblo. Si lo iniciamos en Ubrique, buscaremos el convento o ermita de San Juan.",
       "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5666310/Calzada_romana4.jpg"
+    },
+    {
+      "id": 19,
+      "NOMBRE": "LA TEJA",
+      "LONGITUD": "3.6 kms",
+      "TIEMPO DE IDA": "1:30 h.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-5.578646",
+      "LATITUDE": "36.2780279",
+      "DESCRIPCION": "Tomar la salida nº 70 y seguir la vía de servicio dirección Alcalá de los Gazules a unos 2,5 kms, aparece una pista forestal a la derecha, es la ruta cicloturista Sierra de Montecoche, donde empieza nuestro itinerario.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5655786/1287_SS_02.jpg"
+    },
+    {
+      "id": 20,
+      "NOMBRE": "VALDEINFIERNO",
+      "LONGITUD": "4.3 kms",
+      "TIEMPO DE IDA": "2:30 h.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-5.586977",
+      "LATITUDE": "36.227791",
+      "DESCRIPCION": "Tomar la salida 73 de la autovia A-381, y recorrer la vía de servicio en dirección a Los Barrios, unos dos kilómetros después de la rotonda desviarse a mano derecha.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5659274/1184_SS_04.jpg"
+    },
+    {
+      "id": 21,
+      "NOMBRE": "TRAVESÍA DEL ALJIBE",
+      "LONGITUD": "10 kms",
+      "TIEMPO DE IDA": "5-6 h.",
+      "DIFICULTAD": "Alta",
+      "LONGITUDE": "-5.6505085",
+      "LATITUDE": "36.5217565",
+      "DESCRIPCION": "Sobre la carretera A-2304 (Alcalá de los Gazules-Ubrique) en el km 13-14, se encuentra el área recreativa El Picacho, desde donde se inicia el sendero.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5661354/Travesia_Aljibe6.jpg"
+    },
+    {
+      "id": 22,
+      "NOMBRE": "GARGANTA DE PUERTO OSCURO",
+      "LONGITUD": "0.9 kms",
+      "TIEMPO DE IDA": "30 min.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-5.649062",
+      "LATITUDE": "36.522031",
+      "DESCRIPCION": "En el km 13-14 de la carretera A-2304 (Alcalá de los Gazules-Ubrique), se encuentra el área recreativa El Picacho, donde se inicia el sendero.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5668381/216_SS_01.jpg"
     }
   ]
 }
