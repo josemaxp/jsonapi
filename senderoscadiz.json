@@ -312,6 +312,17 @@
       "LATITUDE": "36.4634946",
       "DESCRIPCION": "Al final de la carretera CA-6201 (Alcalá de los Gazules - Patrite), se encuentra el inicio del sendero.",
       "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5668046/Ruta_molinos4.JPG"
+    },
+    {
+      "id": 26,
+      "NOMBRE": "VEREDA UBRIQUE - ASOMADILLAS",
+      "LONGITUD": "7.2 kms",
+      "TIEMPO DE IDA": "2:30 h.",
+      "DIFICULTAD": "Media",
+      "LONGITUDE": "-5.4617652",
+      "LATITUDE": "36.4445963",
+      "DESCRIPCION": "Al final de la calle Fuente Nueva de Jimena de la Frontera, a la salida del pueblo, haciendo intersección con la carretera CA-8201 (Jimena de la Frontera-Puerto de Gáliz), se inicia este sendero.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5661369/214_SS_14.jpg"
     }
   ]
 }
