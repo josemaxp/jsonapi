@@ -315,6 +315,17 @@
     },
     {
       "id": 26,
+      "NOMBRE": "RÍO HOZGARGANTA",
+      "LONGITUD": "3.3 kms",
+      "TIEMPO DE IDA": "1:30 h.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-5.4533575",
+      "LATITUDE": "36.4285331",
+      "DESCRIPCION": "Desde Jimena, junto al molino de Rodete, se encuentra el inicio. Otras opciones son: por el camino de la Encubierta, accediendo a la mitad del recorrido, o hacerlo en sentido contrario al aquí descrito, por lo que empezaremos en la pista que sale a la izquierda de la carreterra de la Cruz Blanca, donde resulta cómodo encontrar aparcamiento, y evitando así el fuerte desnivel que se describe en el texto.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5667736/Hozgarganta_7.JPG"
+    },
+    {
+      "id": 27,
       "NOMBRE": "VEREDA UBRIQUE - ASOMADILLAS",
       "LONGITUD": "7.2 kms",
       "TIEMPO DE IDA": "2:30 h.",
@@ -323,6 +334,83 @@
       "LATITUDE": "36.4445963",
       "DESCRIPCION": "Al final de la calle Fuente Nueva de Jimena de la Frontera, a la salida del pueblo, haciendo intersección con la carretera CA-8201 (Jimena de la Frontera-Puerto de Gáliz), se inicia este sendero.",
       "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5661369/214_SS_14.jpg"
+    },
+    {
+      "id": 28,
+      "NOMBRE": "LA CALZADA DEHESA BOYAL",
+      "LONGITUD": "5.2 kms",
+      "TIEMPO DE IDA": "2 h.",
+      "DIFICULTAD": "Media",
+      "LONGITUDE": "-5.4528427",
+      "LATITUDE": "36.311291",
+      "DESCRIPCION": "Hasta Castellar de la Frontera por la A-405 (San Roque - Jimena de la Frontera). Desde allí, coger la CA-9201, dirección al castillo, dejando a la derecha la venta La Jarandilla, punto de inicio del sendero.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5665546/217_SS_05.jpg"
+    },
+    {
+      "id": 29,
+      "NOMBRE": "RÍO GUADALMESÍ",
+      "LONGITUD": "5.6 kms",
+      "TIEMPO DE IDA": "2 h.",
+      "DIFICULTAD": "Media",
+      "LONGITUDE": "-5.5188535",
+      "LATITUDE": "36.0724126",
+      "DESCRIPCION": "Este sendero parte del área recreativa de El Bujeo, en Tarifa. Se puede llegar a ella a través de una pista forestal que parte de la carretera N-340, en el Km 95. Si se viene desde Tarifa, hay que hacer un cambio de sentido más adelante, en El Pelayo.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5667562/Rio_guadalmesi5.jpg"
+    },
+    {
+      "id": 30,
+      "NOMBRE": "EL PALANCAR",
+      "LONGITUD": "2.9 kms",
+      "TIEMPO DE IDA": "1:30 h.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-5.5811292",
+      "LATITUDE": "36.24837",
+      "DESCRIPCION": "El inicio del sendero se encuentra en un carril de acceso a los Montes Públicos del Ayuntamiento de Los Barrios, en la carretera A-381, a 18 kilómetros de Los Barrios y muy próximo al área recreativa de Charco Redondo.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5666524/1347_SS_04.jpg"
+    },
+    {
+      "id": 31,
+      "NOMBRE": "ARROYO SAN CARLOS DEL TIRADERO",
+      "LONGITUD": "2.6 kms",
+      "TIEMPO DE IDA": "1 h.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-5.5809955",
+      "LATITUDE": "36.1677431",
+      "DESCRIPCION": "De la antigua carretera CA-7200 (Facinas-Los Barrios, hoy considerada pista forestal), a unos 8 km de la autovía A-381(Jerez de la Frontera-Los Barrios, salida 77), parte a nuestra izquierda un carril donde encontraremos el antiguo caserío de San Carlos del Tiradero o Tejas Verdes, punto de inicio del sendero.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5656754/209_SS_01.jpg"
+    },
+    {
+      "id": 32,
+      "NOMBRE": "CANUTO DEL RISCO BLANCO",
+      "LONGITUD": "4.8 kms",
+      "TIEMPO DE IDA": "2 h.",
+      "DIFICULTAD": "Media",
+      "LONGITUDE": "-5.5846002",
+      "LATITUDE": "36.1632733",
+      "DESCRIPCION": "En la antigua carretera CA-7200 (Facinas-Los Barrios), hoy catalogada como pista forestal y carrilbici, a unos 9 km de la autovía A-381(Jerez de la Frontera-Los Barrios, salida 77), una cancela de hierro, señala el inicio de este sendero y del de Arroyo del Tiradero, a un km desde el cortijo de las Tejas Verdes.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5665022/215_SS_01.jpg"
+    },
+    {
+      "id": 33,
+      "NOMBRE": "RÍO DE LA MIEL",
+      "LONGITUD": "2.4 kms",
+      "TIEMPO DE IDA": "1 h.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-5.4790817",
+      "LATITUDE": "36.1172616",
+      "DESCRIPCION": "Se inicia en El Cobre, barriada de Algeciras, en el mismo punto que el Sendero Río de la Miel. Desde la N-340 en la rotonda del punto kilométrico 101,5 tomar la salida en dirección al polígono industrial Cortijo Real. En la siguiente rotonda tomar la segunda salida por la avenida de Algeciras y girar a la derecha en la calle Antonio Barrero. Por último giramos a la izquierda hacia la calle Maestra Mª Luisa, y a 300 m. se encuentra el inicio.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5669560/Rio_miel_1.JPG"
+    },
+    {
+      "id": 34,
+      "NOMBRE": "CAÑADA REAL LOS RATONES",
+      "LONGITUD": "2.4 kms",
+      "TIEMPO DE IDA": "1:30 h.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-5.7423024",
+      "LATITUDE": "36.4117421",
+      "DESCRIPCION": "A través de la A-381 de Jerez Los Barrios, salida 42 dirección Benalup-Casas Viejas km 1.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5659240/1195_SS_02.jpg"
     }
   ]
 }
