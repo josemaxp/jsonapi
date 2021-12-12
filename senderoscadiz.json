@@ -411,6 +411,83 @@
       "LATITUDE": "36.4117421",
       "DESCRIPCION": "A través de la A-381 de Jerez Los Barrios, salida 42 dirección Benalup-Casas Viejas km 1.",
       "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5659240/1195_SS_02.jpg"
+    },
+    {
+      "id": 35,
+      "NOMBRE": "LA PEÑA",
+      "LONGITUD": "0.9 kms",
+      "TIEMPO DE IDA": "30 min  .",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-5.6651357",
+      "LATITUDE": "36.0577953",
+      "DESCRIPCION": "Por la N-340 viniendo de Tarifa y pasado el km 79 y el camping, tomamos la primera desviación a la derecha, hacia el punto de información del parque natural, junto al cual se inicia el sendero.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/0/1361_SS_09.jpg"
+    },
+    {
+      "id": 36,
+      "NOMBRE": "CERRO DEL TAMBOR",
+      "LONGITUD": "6.3 kms",
+      "TIEMPO DE IDA": "2:30 h.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-5.5067538",
+      "LATITUDE": "36.0808398",
+      "DESCRIPCION": "En la N-340 a la altura del km 96 se toma la vía de servicio a la barriada Pelayo que lleva al aparcamiento del centro de visitantes Huerta Grande, en el se inicia el sendero.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5661326/1270_SS_05.jpg"
+    },
+    {
+      "id": 37,
+      "NOMBRE": "COLADA DE LA COSTA - HUERTA GRANDE",
+      "LONGITUD": "16.2 kms",
+      "TIEMPO DE IDA": "5:30 h.",
+      "DIFICULTAD": "Media",
+      "LONGITUDE": "-5.5973037",
+      "LATITUDE": "36.0135238",
+      "DESCRIPCION": "Desde Tarifa, dejando el castilo de Sancho IV o Guzmán el Bueno, el sendero se inicia nada más pasar la estación marítima.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5665270/1210_SS_11.jpg"
+    },
+    {
+      "id": 38,
+      "NOMBRE": "LOS LANCES",
+      "LONGITUD": "1.5 kms",
+      "TIEMPO DE IDA": "30 min.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-5.6173405",
+      "LATITUDE": "36.0245141",
+      "DESCRIPCION": "A Tarifa se llega por la N-340. Ya en la ciudad hay que ir hacia su extremo noroeste donde está el Estadio Municipal de Deportes y el aparcamiento de la playa de Los Lance, donde se inicia el sendero.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5662166/1209_SS_12.jpg"
+    },
+    {
+      "id": 39,
+      "NOMBRE": "LOS ALGARBES - BETIJUELO",
+      "LONGITUD": "5.6 kms",
+      "TIEMPO DE IDA": "2 h.",
+      "DIFICULTAD": "Media",
+      "LONGITUDE": "-5.7024327",
+      "LATITUDE": "36.0759506",
+      "DESCRIPCION": "En la N-340 a la altura del km 74 se toma la carretera A-2325 a Punta Paloma. Antes de llegar a este poblado, pasado el camping Paloma, se gira a la derecha tomando una pista que lleva a la necrópolis de los Algarbes, en laque se inicia el sendero.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5658314/1186_SS_09.jpg"
+    },
+    {
+      "id": 40,
+      "NOMBRE": "DUNA DE BOLONIA",
+      "LONGITUD": "1.1 kms",
+      "TIEMPO DE IDA": "30 min.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-5.7705625",
+      "LATITUDE": "36.0874321",
+      "DESCRIPCION": "En la N-340 a la altura del km 71, se toma la carretera CA-8202 que lleva a Bolonia y siguiendo la dirección hacia la playa, cruzando el arroyo de Alparieta, se encuentra el inicio del sendero.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5654374/970_SS_12.jpg"
+    },
+    {
+      "id": 41,
+      "NOMBRE": "FARO CAMARINAL",
+      "LONGITUD": "1.7 kms",
+      "TIEMPO DE IDA": "40 min.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-5.7978274",
+      "LATITUDE": "36.36.0960398",
+      "DESCRIPCION": "En la N-340 a la altura del km 71, se toma la carretera CA-2216 a Bolonia y se continua en dirección al conjunto arqueológico de Baelo-Claudia, siguiendo por la misma carretera 3 km más hacia la sierra de la Plata.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5660930/969_SS_04.jpg"
     }
   ]
 }
