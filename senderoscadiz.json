@@ -499,6 +499,215 @@
       "LATITUDE": "36.2419912",
       "DESCRIPCION": "Viniendo por la N-340 (Cádiz-Algeciras), se toma el desvío a Vejer de la Frontera/ Barbate. Tras recorrer 1,3 km, después de pasar La Barca de Vejer, encontramos a nuestra izquierda la estación depuradora en el punto kilométrico 2,2. Aquí encontramos el punto de inicio del sendero.",
       "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5659114/62_PN_04.jpg"
+    },
+    {
+      "id": 43,
+      "NOMBRE": "DEL ACANTILADO",
+      "LONGITUD": "7.1 kms",
+      "TIEMPO DE IDA": "2:30 h.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-5.945836",
+      "LATITUDE": "36.1904573",
+      "DESCRIPCION": "Hasta Vejer de la Frontera por la N-340 (Cádiz-Algeciras). Tomar el desvío a Vejer de la Frontera/ Barbate, en La Barca de Vejer, (A-314). Tomar la carretera A-2233, dirección Los Caños. A unos 5 km, a nuestra derecha parte una pista forestal que nos conduce al área recreativa El Jarillo, punto de inicio del sendero.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5661274/160_SS_11.jpg"
+    },
+    {
+      "id": 44,
+      "NOMBRE": "TORRE DEL TAJO",
+      "LONGITUD": "2.1 kms",
+      "TIEMPO DE IDA": "1 h.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-5.957404",
+      "LATITUDE": "36.1868743",
+      "DESCRIPCION": "Hasta Vejer de la Frontera por la N-340 (Cádiz-Algeciras). Tomar el desvío a Vejer de la Frontera/Barbate, en La Barca de Vejer, (A-314). Tomar la carretera A-2233, dirección Los Caños. A unos 2,5 km del puerto de Barbate, en el punto kilométrico 19,5, se encuentra a nuestra izquierda una zona de aparcamiento, punto de inicio del sendero.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5655418/161_SS_06.jpg"
+    },
+    {
+      "id": 45,
+      "NOMBRE": "JARILLO - TORRE DE MECA",
+      "LONGITUD": "3.9 kms",
+      "TIEMPO DE IDA": "1:30 h.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-5.984164",
+      "LATITUDE": "36.1971843",
+      "DESCRIPCION": "El inicio del sendero se localiza en el área recreativa de El Jarillo, cerca de la casa forestal. A este área se accede por una pista asfaltada de unos 600 metros, que sale del kilómetro 7 de la carretera A-2233 que une Los Caños con Barbate.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5662098/159_SS_09.jpg"
+    },
+    {
+      "id": 46,
+      "NOMBRE": "CAÑOS - TORRE DE MECA",
+      "LONGITUD": "3.7 kms",
+      "TIEMPO DE IDA": "1:30 h.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-6.015734",
+      "LATITUDE": "36.1945043",
+      "DESCRIPCION": "Hasta Vejer de la Frontera por la N-340 (Cádiz-Algeciras). Tomar el desvío a Vejer de la Frontera/ Barbate, en La Barca de Vejer, (A-314).Llegados a Barbate cruzar el pueblo en sentido suroeste, hasta tomar la A-2233 hacia Caños de Meca. Tras recorrer unos 7 km, a la entrada del pueblo, a nuestra derecha, se encuentra el inicio del sendero.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5662098/159_SS_05.jpg"
+    },
+    {
+      "id": 47,
+      "NOMBRE": "ARROYO MONDRAGÓN",
+      "LONGITUD": "3.6 kms",
+      "TIEMPO DE IDA": "1:30 h.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-5.978276",
+      "LATITUDE": "36.2050223",
+      "DESCRIPCION": "Desde la carretera A-2233 dirección Los Caños, a 5 km. tomar la carretera de San Ambrosio a la derecha, pasar el área recreativa El Jarillo y continuar aproximadamente 2 km.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5675532/1461_SS_01.jpg"
+    },
+    {
+      "id": 48,
+      "NOMBRE": "LAS QUEBRADAS",
+      "LONGITUD": "2.2 kms",
+      "TIEMPO DE IDA": "1 h.",
+      "DIFICULTAD": "Media",
+      "LONGITUDE": "-5.9595629",
+      "LATITUDE": "36.2337013",
+      "DESCRIPCION": "Desde la carretera A-314, de Vejer a Barbate, entre el km 3 y el 4, a la altura de la urbanización La Ribera de la Oliva, tomar a la derecha por una pista hasta el inicio del sendero, a unos seiscientos metros.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5658638/1294_SS_01.jpg"
+    },
+    {
+      "id": 49,
+      "NOMBRE": "PUNTA DEL BOQUERÓN",
+      "LONGITUD": "2.7 kms",
+      "TIEMPO DE IDA": "45 min.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-6.2259884",
+      "LATITUDE": "36.4185869",
+      "DESCRIPCION": "Desde San Fernando tomar la carretera a la playa de Camposoto. Al final de la carretera comienza el sendero.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5663474/960_SS_12.jpg"
+    },
+    {
+      "id": 50,
+      "NOMBRE": "TRES AMIGOS - RÍO ARILLO",
+      "LONGITUD": "3.1 kms",
+      "TIEMPO DE IDA": "1 h.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-6.2283642",
+      "LATITUDE": "36.4448823",
+      "DESCRIPCION": "Desde San Fernando tomar la carretera a la playa de Camposoto. Frente al cuartel hay un eucaliptal donde se inicia el sendero.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5654678/152_SS_06.jpg"
+    },
+    {
+      "id": 51,
+      "NOMBRE": "SALINA DOLORES",
+      "LONGITUD": "3.1 kms",
+      "TIEMPO DE IDA": "1 h.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-6.231319",
+      "LATITUDE": "36.4589432",
+      "DESCRIPCION": "Desde San Fernando tomar el carril que parte cerca del centro comercial Bahía Sur, en dirección a la estación de aguas residuales. Pasado el río Arillo girar a la derecha donde aparece un cartel de inicio.",
+      "IMAGEN": "https://resizer.lavozdigital.es/resizer/resizer.php?imagen=/deliverty/demo/resources/jpg/9/5/1315913878359.jpg"
+    },
+    {
+      "id": 52,
+      "NOMBRE": "LOS TORUÑOS",
+      "LONGITUD": "5.2 kms",
+      "TIEMPO DE IDA": "2 h.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-6.2173846",
+      "LATITUDE": "36.5720981",
+      "DESCRIPCION": "En la urbanización de la playa de Valdelagrana (El Puerto de Santa María), tomar la avenida del Mar, hasta el centro de recepción de visitantes del Parque Metropolitano Marisma de los Toruños y Pinar de la Algaida, lugar de inicio del sendero.",
+      "IMAGEN": "https://img.europapress.es/fotoweb/fotonoticia_20201212122955_640.webp"
+    },
+    {
+      "id": 53,
+      "NOMBRE": "PINAR DE LA ALGAIDA - SALINA DESAMPARADOS",
+      "LONGITUD": "6.1 kms",
+      "TIEMPO DE IDA": "2 h.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-6.213332",
+      "LATITUDE": "36.5763823",
+      "DESCRIPCION": "Desde Puerto Real, dirigirse al campus universitario y junto a la facultad de Ciencias se inicia el sendero, en la entrada Sur del Parque Metropolitano Marisma de los Toruños y Pinar de la Algaida.",
+      "IMAGEN": "https://www.sendacadiz.es/gallery/IMG_0412.jpg"
+    },
+    {
+      "id": 54,
+      "NOMBRE": "SALINA DE LA ESPERANZA",
+      "LONGITUD": "0.9 kms",
+      "TIEMPO DE IDA": "20 min.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-6.1553135",
+      "LATITUDE": "36.5119447",
+      "DESCRIPCION": "El acceso se realiza en la rotonda del Puente Melchor por vía de servicio del tren, en Puerto Real , donde se ubica la salina de Molinete.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5662186/1305_SS_03.jpg"
+    },
+    {
+      "id": 55,
+      "NOMBRE": "SALINA DE CARBONEROS",
+      "LONGITUD": "4 kms",
+      "TIEMPO DE IDA": "1:30 h.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-6.1850895",
+      "LATITUDE": "36.3893281",
+      "DESCRIPCION": "El acceso se realiza a través de la carretera de la Playa de la Barrosa a la altura de la urbanización de Las Mogarizas, antes de llegar a la Venta del Popeye.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5665286/1335_SS_02.jpg"
+    },
+    {
+      "id": 56,
+      "NOMBRE": "LAGUNA DE MEDINA",
+      "LONGITUD": "1.5 kms",
+      "TIEMPO DE IDA": "30 min.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-6.0605159",
+      "LATITUDE": "36.6134086",
+      "DESCRIPCION": "Desde la autovía A-381 (Jerez de la Frontera a Los Barrios, salida 4), tomamos la vía de servicio (A-2006), y a un 1 km. a la derecha encontramos un amplio aparcamiento. A la izquierda se encuentra el inicio del sendero Laguna de Medina, junto a otro pequeño aparcamiento. Este sendero tiene dos sentidos: hacia la derecha, nos dirige a través de una pasarela elevada hasta el observatorio Laguna de Medina y hacia la izquierda, nos lleva hasta el mirador de su mismo nombre y a continuación al mirador de La Malvasía.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5684930/S_LagunaMedina01.jpg"
+    },
+    {
+      "id": 57,
+      "NOMBRE": "LAS FUENTES",
+      "LONGITUD": "2.9 kms",
+      "TIEMPO DE IDA": "1:15 h.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-5.4104965",
+      "LATITUDE": "36.8805381",
+      "DESCRIPCION": "El sendero se inicia cerca de La Fuente del Algarrobo (conocida en la población de Algodonales como Fuente baja) y finaliza cerca de la Fuente Alta, realizándose por la cara sur de la Sierra de Lijar, y a escasos metros de la población.",
+      "IMAGEN": "https://www.grazalemaconencanto.com/uploads/senderos/Las-fuentes.jpg"
+    },
+    {
+      "id": 58,
+      "NOMBRE": "LA MUELA - LOS NACIMIENTOS",
+      "LONGITUD": "6.5 kms",
+      "TIEMPO DE IDA": "3 h.",
+      "DIFICULTAD": "Media",
+      "LONGITUDE": "-5.407049",
+      "LATITUDE": "36.9125691",
+      "DESCRIPCION": "El sendero comienza cerca de localidad de La Muela, pedanía de Algodonales. Una vez en La Muela, en la carretera CA-9101 a unos 800 m del pueblo, hay un desvío hacia la Sierra de Líjar, por un carril en buenas condiciones utilizado para subir a las pistas de ala delta. Unos 3 Km después llegamos al inicio del sendero.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5662854/1057_SS_04.jpg"
+    },
+    {
+      "id": 59,
+      "NOMBRE": "ALGODONALES - LOS NACIMIENTOS",
+      "LONGITUD": "10.5 kms",
+      "TIEMPO DE IDA": "4 h.",
+      "DIFICULTAD": "Media",
+      "LONGITUDE": "-5.4081263",
+      "LATITUDE": "36.8835921",
+      "DESCRIPCION": "El sendero comienza al final de la calle Las Piedras, en Algodonales, en la parte alta del pueblo.",
+      "IMAGEN": "https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5677310/1056_SS_07.jpg"
+    },
+    {
+      "id": 60,
+      "NOMBRE": "VÍA VERDE DE LA SIERRA",
+      "LONGITUD": "36 kms",
+      "TIEMPO DE IDA": "10 h.",
+      "DIFICULTAD": "Media",
+      "LONGITUDE": "-5.4089891",
+      "LATITUDE": "36.9719913",
+      "DESCRIPCION": "En el municipio de Olvera, en el cruce del camino que une Olvera con Pruna, junto al complejo turístico “Estación de Olvera” puedes aparcar en el parking situado junto a la estación.",
+      "IMAGEN": "https://www.fundacionviaverdedelasierra.es/wp-content/uploads/2017/03/050VIA.jpg"
+    },
+    {
+      "id": 61,
+      "NOMBRE": "CORREDOR VERDE DOS BAHÍAS",
+      "LONGITUD": "93 kms",
+      "TIEMPO DE IDA": "17 h.",
+      "DIFICULTAD": "Baja",
+      "LONGITUDE": "-6.1528155",
+      "LATITUDE": "36.5191441",
+      "DESCRIPCION": "El sendero comienza en el Parque de las Cañadas, más concretamente en la Cañada Real del Camino de Medina Sidonia por Venta Catalana, situado junto al aparcamiento del Hospital Universitario de Puerto Real.",
+      "IMAGEN": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Embalse_del_Celem%C3%ADn-dos_bah%C3%ADas.jpg"
     }
   ]
 }
